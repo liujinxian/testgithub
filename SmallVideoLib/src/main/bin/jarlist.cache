@@ -1,0 +1,15 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1463575815000 284738 3db7b73aecea723803e10b068777cf09ed42d4be /Users/apple/Documents/yuanfen/lib/lib/libs/ormlite-core-4.45.jar
+1463575956000 284738 3db7b73aecea723803e10b068777cf09ed42d4be /Users/apple/Documents/yuanfen/baselib/BusinessCoreLib/libs/ormlite-core-4.45.jar
+1498532118000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd /Users/apple/Documents/yuanfen/widget/uiview/CircleImageView/libs/android-support-v4.jar
+1498532123000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd /Users/apple/Documents/yuanfen/widget/uiview/ClipImageView/libs/android-support-v4.jar
+1463575956000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd /Users/apple/Documents/yuanfen/baselib/BusinessCoreLib/libs/android-support-v4.jar
+1463575956000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd /Users/apple/Documents/SmallVideoLib/src/main/libs/android-support-v4.jar
+1463575815000 51643 8ff8c21e8d0162333559f35cafd6a2238a33e5ba /Users/apple/Documents/yuanfen/lib/lib/libs/ormlite-android-4.45.jar
+1463575956000 51643 8ff8c21e8d0162333559f35cafd6a2238a33e5ba /Users/apple/Documents/yuanfen/baselib/BusinessCoreLib/libs/ormlite-android-4.45.jar
+1463575815000 156626 a3999ed50638407a9c7686e166effe0bf8457dc1 /Users/apple/Documents/yuanfen/lib/lib/libs/universal-image-loader.jar
+1463575956000 156626 a3999ed50638407a9c7686e166effe0bf8457dc1 /Users/apple/Documents/yuanfen/baselib/BusinessCoreLib/libs/universal-image-loader.jar
+1463575815000 190418 973e832af433b44c3ed11c426f2f390b29f3f3f8 /Users/apple/Documents/yuanfen/lib/lib/libs/gson-2.2.4.jar
+1463575956000 190418 973e832af433b44c3ed11c426f2f390b29f3f3f8 /Users/apple/Documents/yuanfen/baselib/messagelib/libs/gson-2.2.4.jar
